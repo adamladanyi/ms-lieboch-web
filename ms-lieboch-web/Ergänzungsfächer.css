@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 789px;
+  min-height: 779px;
 }
 
 .u-section-1 .u-text-1 {
@@ -8,11 +8,11 @@
 
 .u-section-1 .u-layout-wrap-1 {
   margin-top: 9px;
-  margin-bottom: 60px;
+  margin-bottom: 50px;
 }
 
 .u-section-1 .u-layout-cell-1 {
-  min-height: 717px;
+  min-height: 718px;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -20,7 +20,8 @@
 }
 
 .u-section-1 .u-text-2 {
-  margin: 0 139px 0 0;
+  width: 181px;
+  margin: 0 auto;
 }
 
 .u-section-1 .u-image-1 {
@@ -35,7 +36,8 @@
 }
 
 .u-section-1 .u-text-4 {
-  margin: 50px 202px 0 0;
+  font-style: italic;
+  margin: 25px 0 0;
 }
 
 .u-section-1 .u-btn-1 {
@@ -44,7 +46,8 @@
   text-transform: uppercase;
   font-size: 0.875rem;
   letter-spacing: 1px;
-  margin: 40px auto 0 54px;
+  background-image: none;
+  margin: 66px auto 0 54px;
 }
 
 .u-section-1 .u-layout-cell-2 {
@@ -56,7 +59,8 @@
 }
 
 .u-section-1 .u-text-5 {
-  margin: 0 131px 0 0;
+  width: 189px;
+  margin: 0 auto;
 }
 
 .u-section-1 .u-image-2 {
@@ -71,7 +75,8 @@
 }
 
 .u-section-1 .u-text-7 {
-  margin: 24px 202px 0 0;
+  font-style: italic;
+  margin: 24px 0 0;
 }
 
 .u-section-1 .u-btn-2 {
@@ -80,6 +85,7 @@
   text-transform: uppercase;
   font-size: 0.875rem;
   letter-spacing: 1px;
+  background-image: none;
   margin: 40px auto 0;
 }
 
@@ -107,7 +113,8 @@
 }
 
 .u-section-1 .u-text-10 {
-  margin: 23px 202px 0 0;
+  font-style: italic;
+  margin: 23px 0 0;
 }
 
 .u-section-1 .u-btn-3 {
@@ -116,6 +123,7 @@
   text-transform: uppercase;
   font-size: 0.875rem;
   letter-spacing: 1px;
+  background-image: none;
   margin: 92px auto 0;
 }
 
@@ -134,7 +142,7 @@
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 591px;
+    min-height: 592px;
   }
 
   .u-section-1 .u-text-2 {
@@ -204,7 +212,8 @@
   }
 
   .u-section-1 .u-text-2 {
-    margin-right: 0;
+    margin-right: auto;
+    width: 180px;
   }
 
   .u-section-1 .u-image-1 {
@@ -221,7 +230,8 @@
   }
 
   .u-section-1 .u-text-5 {
-    margin-right: 0;
+    margin-right: auto;
+    width: 180px;
   }
 
   .u-section-1 .u-image-2 {
@@ -309,6 +319,10 @@
 
   .u-section-1 .u-text-4 {
     margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: auto;
   }
 
   .u-section-1 .u-image-2 {
