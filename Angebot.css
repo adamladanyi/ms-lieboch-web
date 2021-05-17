@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'DroidSans-Bold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/DroidSans-Bold.ttf);
+}@font-face {
+  font-family: 'DroidSerif-Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/DroidSerif-Regular.ttf);
+}
